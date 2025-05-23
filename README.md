@@ -5,8 +5,6 @@
 ### Overview:
 This lesson covers the effects of carbon buildup on automotive engines. Students will learn about the causes of carbon buildup, its impact on engine performance, and solutions for mitigating its effects. The lesson is designed for engine builders, consumers, and car enthusiasts who want to deepen their understanding of engine maintenance.
 
----
-
 ### Learning Objectives:
 By the end of this lesson, students will be able to:
 1. Define carbon buildup and describe how it occurs in combustion engines.
@@ -15,15 +13,11 @@ By the end of this lesson, students will be able to:
 4. Explore both short-term and long-term solutions for managing and preventing carbon buildup.
 5. Understand the importance of maintaining engine performance by reducing carbon buildup.
 
----
-
 ### Audience:
 - Engine Builders
 - Rebuilders
 - Car Enthusiasts
 - Consumers interested in automotive maintenance
-
----
 
 ### Materials Needed:
 - PowerPoint or slide presentation
@@ -32,12 +26,8 @@ By the end of this lesson, students will be able to:
 - Whiteboard and markers
 - Access to vehicle engines (if practical demonstration is needed)
 
----
-
 ### Lesson Duration:
 1.5 to 2 hours
-
----
 
 ### Lesson Outline:
 
@@ -95,14 +85,10 @@ By the end of this lesson, students will be able to:
    - **Assessment:**  
      Hand out a short quiz or survey to assess student understanding of the material.
 
----
-
 ### Assessment Methods:
 - Short Quiz on Carbon Buildup: 10-15 multiple choice and short answer questions to test comprehension.
 - Group Activity Presentation: Groups will present their recommendations for reducing carbon buildup and maintaining engine performance.
 - Spark Plug Inspection: Practical demonstration of inspecting spark plugs for carbon buildup.
-
----
 
 ### Optional Extensions:
 - **Homework Assignment:**  
@@ -110,15 +96,11 @@ By the end of this lesson, students will be able to:
 - **Advanced Topic Discussion:**  
    Introduce advanced technologies in engine design aimed at reducing carbon emissions and the role of fuel types in carbon buildup.
 
----
-
 ### Key Takeaways:
 - Carbon buildup is a natural result of using fossil-based fuels in combustion engines.
 - It can significantly impact engine performance, fuel efficiency, and lifespan.
 - Detecting and managing carbon buildup early can help avoid costly repairs and enhance engine performance.
 - There are both short-term solutions (fuel additives) and long-term solutions (engine design improvements) to mitigate carbon buildup.
-
----
 
 ### Additional Resources:
 - **Books:** "The Internal Combustion Engine" by Richard Stone
@@ -127,8 +109,6 @@ By the end of this lesson, students will be able to:
    - [Automotive Repair Blogs and Forums](https://www.autobahnautomotive.com)
 - **Videos:**  
    - [YouTube - How Combustion Engines Work](https://www.youtube.com/watch?v=8tGAYLR6Oik)
-
----
 
 This lesson plan is designed to give participants a deep understanding of carbon buildup and its effects on engine performance, along with practical methods for managing and preventing it.
 
