@@ -11,7 +11,7 @@ By the end of this lesson, students will be able to:
 2. Explain the effects of carbon buildup on engine performance, including fuel efficiency, horsepower, and engine lifespan.
 3. Identify methods for detecting carbon buildup in an engine.
 4. Explore both short-term and long-term solutions for managing and preventing carbon buildup.
-5. Understand the importance of maintaining engine performance by reducing carbon buildup.
+5. Recognize the importance of maintaining engine performance by reducing carbon buildup.
 
 ### Audience:
 - Engine Builders
